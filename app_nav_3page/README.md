@@ -2,6 +2,8 @@
 
 Demo Aplikasi:
 
+Tugas membuat page, part Muhamad Syamsu Nuryaman - 22552012035
+
 https://github.com/user-attachments/assets/b2562cc8-0ad3-4a17-94c1-e977404521ee
 
 
